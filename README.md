@@ -4,10 +4,12 @@
 
 ## 🔵 About Me
 
-- 🎓 Fresher | Aspiring Data Scientist  
-- 📊 Passionate about Data Analytics, Machine Learning & AI  
-- 🧠 Strong foundation in Python, SQL, ML & Deep Learning  
-- 🚀 Love building data-driven solutions  
+- 🎓 M.Sc Mathematics Graduate | Aspiring Data Scientist  
+- 📜 Completed Data Science Program at GUVI Geek Network Pvt Ltd with IIT Madras Certification
+- 🔍 Passionate about Data Analytics, Machine Learning, and Interactive Dashboards
+- 🧠 Skilled in deep learning using TensorFlow and Keras, with hands-on project to CNNs and RNNs/LSTMs
+- 💡 Constantly exploring ways to bring data-driven solutions to life
+
 
 ---
 
